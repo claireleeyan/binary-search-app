@@ -32,14 +32,14 @@ CISC 121 Final Project
     Processing (binary search will repeatedly halve list to find value)
     Output (displays whether the number exists, as well as the index) 
 
-    I chose to implement binary search because of its efficiency and relevance to the real world. It is a searching algorithm that is able to quickly narrow down results (e.g as opposed to linear search, which needs to check every element one at a time). This makes it very useful when working with large, organized datasets. As someone interested in the world of finance, this type of algorithm is useful for data driven industries and work such as searching financial records, tracking product inventory, etc, where speed and accuracy matter. I believe it could very easily, possibly, and usefully be implemented into versatile industries and is extremely applicable to everyday jobs, and doing a deeper dive on it through this project gave me the opportunity to see how such computational tools can support business processes. Overall, binary search stood out to me as an excellent technical choice, as well as one that aligns with my future professional interests. 
+   # I chose to implement binary search because of its efficiency and relevance to the real world. It is a searching algorithm that is able to quickly narrow down results (e.g as opposed to linear search, which needs to check every element one at a time). This makes it very useful when working with large, organized datasets. As someone interested in the world of finance, this type of algorithm is useful for data driven industries and work such as searching financial records, tracking product inventory, etc, where speed and accuracy matter. I believe it could very easily, possibly, and usefully be implemented into versatile industries and is extremely applicable to everyday jobs, and doing a deeper dive on it through this project gave me the opportunity to see how such computational tools can support business processes. Overall, binary search stood out to me as an excellent technical choice, as well as one that aligns with my future professional interests. 
 
 # Steps to Run 
 
 # Hugging Face Link
 
 # Author 
-Claire Leeyan, 20462779
+Claire Leeyan, 20462779. 
 CISC 121 - 001 
 
   
