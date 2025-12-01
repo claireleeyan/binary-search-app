@@ -6,6 +6,8 @@ CISC 121 Final Project
 
 # Demo Vid / Screenshot of Test
 
+Click to view screen recording demo of how it works : https://raw.githubusercontent.com/claireleeyan/binary-search-app/main/demo.mp4
+
 # Problem Breakdown and Computational Thinking
 
   1. Decomposition: What smaller steps form your algorithm?
@@ -37,7 +39,15 @@ I chose to implement binary search because of its efficiency and relevance to th
 
 # Steps to Run 
 
+1. Open the app on Hugging Face (link provided below)
+2. In the first text box, enter a list of integers, and make sure to seperate them by commas
+3. Enter the target value you want to look for
+4. Hit "submit"
+5. The program output will show the steps of binary search it is performing, and play a positive sound effect if the target is found!
+
 # Hugging Face Link
+
+https://huggingface.co/spaces/claireleeyan/binary-search
 
 # Author 
 Claire Leeyan, 20462779. 
