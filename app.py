@@ -47,11 +47,11 @@ def run_search(numbers_str, target_str): # converts the input text into a lst/ta
 
 
 app = gr.Interface(fn=run_search,
-                   inputs=[gr.Textbox(label="Enter numbers (comma-separated)", placeholder="e.g. 1, 4, 7, 10"),
+                   inputs=[gr.Textbox(label="Enter numbers, seperate them by commas.", placeholder="e.g. 1, 4, 7, 10"),
                            gr.Textbox(label="Enter target number", placeholder="e.g. 7")],
                    outputs=gr.Textbox(label="Search Steps"),
                    title="Binary Search",
-                   description="Enter a lst of integers and a target value.")
+                   description="Enter a list of integers and a target value you want to find within the list.")
 
 if __name__ == "__main__": # if this file is the main program being run, start the app 
     app.launch()
